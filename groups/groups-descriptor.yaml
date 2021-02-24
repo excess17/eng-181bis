@@ -1,0 +1,8 @@
+- code: administrators
+  name: Administrators
+- code: free
+  name: Free Access
+- code: group1
+  name: group1
+- code: group2
+  name: group2
